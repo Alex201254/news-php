@@ -1,0 +1,10 @@
+.footer__button {
+    box-sizing: border-box;
+    width: 35px;
+    height: 20px;
+    text-align: center;
+    margin-top: 3px;
+    padding: 0;
+    cursor: pointer;
+    border: none;
+}

@@ -1,0 +1,5 @@
+.news__title_is-opened {
+    padding-bottom: 5px;
+    border-bottom: 1.5px dashed rgba(224, 4, 89, 0.527);
+    font-weight: 600;
+}
